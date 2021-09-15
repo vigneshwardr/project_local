@@ -68,4 +68,5 @@ if __name__ == '__main__':
 	text = collect_text(get_page())
 	save_file(text)
 	# Instructions to Run this python code
+	# Use the below link for refrence and to scrape the data from that website
 	# Give url as https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
